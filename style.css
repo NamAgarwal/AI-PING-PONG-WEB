@@ -1,0 +1,16 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    font-size: 22px;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid white;
+}
+#start, #status{
+    font-size: 20px;
+}
